@@ -1,0 +1,11 @@
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature Converter.csproj.AssemblyReference.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature Converter.csproj.SuggestedBindingRedirects.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature_Converter.TemperatureConverter.resources
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature_Converter.Properties.Resources.resources
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature Converter.csproj.GenerateResource.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature Converter.csproj.CoreCompileInputs.cache
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\bin\Debug\Temperature Converter.exe
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\bin\Debug\Temperature Converter.pdb
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature Converter.exe
+D:\Muhammed\Desktop\C#\MyProject\Winform Projects\Temperature Converter\obj\Debug\Temperature Converter.pdb
