@@ -175,7 +175,7 @@
             this.lblDate.AutoSize = true;
             this.lblDate.Font = new System.Drawing.Font("DS-Digital", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDate.ForeColor = System.Drawing.Color.White;
-            this.lblDate.Location = new System.Drawing.Point(280, 4);
+            this.lblDate.Location = new System.Drawing.Point(303, 4);
             this.lblDate.Name = "lblDate";
             this.lblDate.Size = new System.Drawing.Size(146, 16);
             this.lblDate.TabIndex = 1;
